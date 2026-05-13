@@ -1,0 +1,34 @@
+# Vamstar — Healthcare Supply Analytics Case Study
+
+## Company
+Vamstar is a UK-based healthtech startup that connects hospitals 
+with medical suppliers using AI-driven procurement analytics.
+
+## Problem I Identified
+Healthcare suppliers list the same product under different names 
+across ERP systems. This causes duplicate orders, price mismatches, 
+and wasted procurement budget.
+
+## What I Built
+A Power BI dashboard with:
+- 5 KPI cards: Total Orders, Suppliers, Supply Value, 
+  Avg Quality Score, Delayed Orders
+- Duplicate product flag — automatically catches same products 
+  listed under different names
+- Supplier performance bar chart with colour coding
+- Delivery status slicer for real-time filtering
+
+## Tools Used
+Power BI | DAX | Excel | Power Query
+
+## Key Insights
+- CarePlus BV has the highest delayed delivery rate
+- PharmaSource India handles highest supply value (1.9K)
+- 100% of products had duplicate naming issues — 
+  confirming the core procurement data problem
+
+## Dashboard Screenshot
+![Vamstar Dashboard](dashboard_screenshot.png)
+
+## Status
+Email sent to hr@vamstar.io on [put today's date here]
